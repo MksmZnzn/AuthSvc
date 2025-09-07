@@ -1,0 +1,6 @@
+@AuthSvc.WebApi_HostAddress = http://localhost:5002
+
+GET {{AuthSvc.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
